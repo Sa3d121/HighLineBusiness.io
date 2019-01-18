@@ -1,0 +1,184 @@
+::-moz-selection {
+  background:  rgba(230, 0, 36, 0.7);;
+  color: #fff;
+  text-shadow: none;
+}
+::selection {
+  background:  rgba(230, 0, 36, 0.7);;
+  color: #fff;
+  text-shadow: none;
+}
+
+a {
+  color:  rgba(230, 0, 36, 0.7);;
+  text-decoration: none;
+}
+
+a:hover {
+	color: #dc5c00;
+	text-decoration: underline;
+}
+
+.tweet a {
+	color: rgba(230, 0, 36, 0.7);;
+}
+#pro{
+		background-color: rgba(230, 0, 36, 0.7);;
+			
+				}
+	#myBtn{ 
+		 background-color: rgba(230, 0, 36, 0.7);;
+	 
+			}			
+	.option-box .gear-check {background-color: rgba(230, 0, 36, 0.7);}
+	
+	.price .header {
+
+    background-color:  rgba(230, 0, 36, 0.7);;
+	}
+	.btn-color {
+  
+  background:  rgba(230, 0, 36, 0.7);;
+}
+
+
+		
+.button {
+    background-color:  rgba(230, 0, 36, 0.7);;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
+.tweet .tweet_time a:hover i {
+	color: rgba(230, 0, 36, 0.7);;
+}
+
+.folio-caption .folio-link a:hover .icon-rounded {
+	background: #dc5c00;
+}
+
+
+/* fontawesome icons */
+.icon-square:hover,
+.icon-rounded:hover,
+.icon-circled:hover {
+    background-color:  rgba(230, 0, 36, 0.7);;
+}
+[class^="icon-"].active,
+[class*=" icon-"].active {
+    background-color:  rgba(230, 0, 36, 0.7);;
+}
+
+
+
+
+.navbar .nav > li > a:hover {
+  color:  rgba(230, 0, 36, 0.7);;
+}
+
+
+ul.nav li.current {
+  background:  rgba(230, 0, 36, 0.7);;
+}
+.dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a {
+	background:  rgba(230, 0, 36, 0.7);;
+}
+
+input:focus, textarea:focus {
+	border: 1px solid  rgba(230, 0, 36, 0.7);;
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color:  rgba(230, 0, 36, 0.7);;
+}
+.letter-container h2 span:hover{
+	color:  rgba(230, 0, 36, 0.7);;
+}
+
+
+/* tab */
+
+.nav-tabs > .active > a,
+.nav-tabs > .active > a:hover {
+	border-top:4px solid  rgba(230, 0, 36, 0.7);;
+}
+.nav-tabs > .active > a {
+	color:  rgba(230, 0, 36, 0.7);;
+}
+
+/* accordion */
+.accordion-heading a:hover {
+	color:  rgba(230, 0, 36, 0.7);;
+}
+.accordion-heading .active{
+	color:  rgba(230, 0, 36, 0.7);;
+}
+
+.accordion-inner {
+
+}
+
+/* sequence slider */
+#sequence-theme .next,
+#sequence-theme .prev {
+	background: rgba(230, 0, 36, 0.7);;
+}
+
+.special-box, .box-color{
+	background:  rgba(230, 0, 36, 0.7);;
+}
+
+.special-box:after{
+	border-color:#000  rgba(230, 0, 36, 0.7);
+}
+
+
+/* portfolio */
+
+.thumb-wrapp{
+	background: rgba(230, 0, 36, 0.7);
+}
+.folio-caption{
+	background: rgba(230, 0, 36, 0.7);
+}
+	#myBtn1{ background-color: rgba(230, 0, 36, 0.7);;
+		
+			}		
+	.btn-color:hover,
+.btn-color:active,
+.btn-color.active,
+.btn-color.disabled,
+.btn-color[disabled] {
+  background-color: red;
+  
+}		
+	.option-box .color-option {
+    
+	border:5px solid  rgba(230, 0, 36, 0.7);;
+   
+}		
+
+iframe.contact-map{
+  -webkit-box-shadow: 6px 6px 0px #c85c0e;
+     -moz-box-shadow: 6px 6px 0px #c85c0e;
+          box-shadow: 6px 6px 0px #c85c0e;
+}

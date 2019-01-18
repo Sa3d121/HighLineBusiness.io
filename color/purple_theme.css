@@ -1,0 +1,183 @@
+::-moz-selection {
+  background: #8b209eed;
+  color: #fff;
+  text-shadow: none;
+}
+::selection {
+  background: #8b209eed;
+  color: #fff;
+  text-shadow: none;
+}
+
+a {
+  color: #8b209eed;
+  text-decoration: none;
+}
+
+a:hover {
+	color: #dc5c00;
+	text-decoration: underline;
+}
+
+.tweet a {
+	color:#8b209eed;
+}
+.option-box .color-option {
+    
+	border:5px solid #8b209eed;
+   
+}
+#pro{
+		background-color:#8b209eed;
+			
+				}
+	#myBtn{ 
+		 background-color:#8b209eed;
+	 
+			}
+	#myBtn1{ background-color:#8b209eed;
+		
+			}		
+.option-box .gear-check {padding:5px;color:#FFF;cursor:pointer;background-color:#8b209eed}
+	
+	.price .header {
+
+    background-color: #8b209eed;
+	}
+
+		
+.button {
+    background-color: #8b209eed;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
+.tweet .tweet_time a:hover i {
+	color:#8b209eed;
+}
+
+.folio-caption .folio-link a:hover .icon-rounded {
+	background: #dc5c00;
+}
+
+
+/* fontawesome icons */
+.icon-square:hover,
+.icon-rounded:hover,
+.icon-circled:hover {
+    background-color: #8b209eed;
+}
+[class^="icon-"].active,
+[class*=" icon-"].active {
+    background-color: #8b209eed;
+}
+
+
+
+
+.navbar .nav > li > a:hover {
+  color: #8b209eed;
+}
+
+
+ul.nav li.current {
+  background: #8b209eed;
+}
+.dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a {
+	background: #8b209eed;
+}
+
+input:focus, textarea:focus {
+	border: 1px solid #8b209eed;
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: #8b209eed;
+}
+.letter-container h2 span:hover{
+	color: #8b209eed;
+}
+
+
+/* tab */
+
+.nav-tabs > .active > a,
+.nav-tabs > .active > a:hover {
+	border-top:4px solid #8b209eed;
+}
+.nav-tabs > .active > a {
+	color: #8b209eed;
+}
+
+/* accordion */
+.accordion-heading a:hover {
+	color: #8b209eed;
+}
+.accordion-heading .active{
+	color: #8b209eed;
+}
+
+.accordion-inner {
+
+}
+
+/* sequence slider */
+#sequence-theme .next,
+#sequence-theme .prev {
+	background:#8b209eed;
+}
+
+.special-box, .box-color{
+	background: #8b209eed;
+}
+
+.special-box:after{
+	border-color:#000 #8b209eed;
+}
+
+
+/* portfolio */
+
+.thumb-wrapp{
+	background:#8b209eed;
+}
+.folio-caption{
+	background:#8b209eed;
+}
+.btn-color {
+  
+  background: #8b209eed;
+}
+.btn-color:hover,
+.btn-color:active,
+.btn-color.active,
+.btn-color.disabled,
+.btn-color[disabled] {
+  background-color: #d15801;
+  
+}
+
+iframe.contact-map{
+  -webkit-box-shadow: 6px 6px 0px #c85c0e;
+     -moz-box-shadow: 6px 6px 0px #c85c0e;
+          box-shadow: 6px 6px 0px #c85c0e;
+}

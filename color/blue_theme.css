@@ -1,0 +1,184 @@
+::-moz-selection {
+  background: #3f51b5;
+  color: #fff;
+  text-shadow: none;
+}
+::selection {
+  background: #3f51b5;
+  color: #fff;
+  text-shadow: none;
+}
+
+a {
+  color: #3f51b5;
+  text-decoration: none;
+}
+
+a:hover {
+	color: #dc5c00;
+	text-decoration: underline;
+}
+
+.tweet a {
+	color:#3f51b5;
+}
+#pro{
+		background-color:#3f51b5;
+			
+				}
+	#myBtn{ 
+		 background-color:#3f51b5;
+	 
+			}			
+	.option-box .gear-check {background-color:#3f51b5}
+	
+	.price .header {
+
+    background-color: #3f51b5;
+	}
+	.btn-color {
+  
+  background: #3f51b5;
+}
+
+
+		
+.button {
+    background-color: #3f51b5;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
+.tweet .tweet_time a:hover i {
+	color:#3f51b5;
+}
+
+.folio-caption .folio-link a:hover .icon-rounded {
+	background: #dc5c00;
+}
+
+
+/* fontawesome icons */
+.icon-square:hover,
+.icon-rounded:hover,
+.icon-circled:hover {
+    background-color: #3f51b5;
+}
+[class^="icon-"].active,
+[class*=" icon-"].active {
+    background-color: #3f51b5;
+}
+
+
+
+
+.navbar .nav > li > a:hover {
+  color: #3f51b5;
+}
+
+
+ul.nav li.current {
+  background: #3f51b5;
+}
+.dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a {
+	background: #3f51b5;
+}
+
+input:focus, textarea:focus {
+	border: 1px solid #3f51b5;
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: #3f51b5;
+}
+.letter-container h2 span:hover{
+	color: #3f51b5;
+}
+
+
+/* tab */
+
+.nav-tabs > .active > a,
+.nav-tabs > .active > a:hover {
+	border-top:4px solid #3f51b5;
+}
+.nav-tabs > .active > a {
+	color: #3f51b5;
+}
+
+/* accordion */
+.accordion-heading a:hover {
+	color: #3f51b5;
+}
+.accordion-heading .active{
+	color: #3f51b5;
+}
+
+.accordion-inner {
+
+}
+
+/* sequence slider */
+#sequence-theme .next,
+#sequence-theme .prev {
+	background:#3f51b5;
+}
+
+.special-box, .box-color{
+	background: #3f51b5;
+}
+
+.special-box:after{
+	border-color:#000 #3f51b5;
+}
+
+
+/* portfolio */
+
+.thumb-wrapp{
+	background:#3f51b5;
+}
+.folio-caption{
+	background:#3f51b5;
+}
+	#myBtn1{ background-color:#3f51b5;
+		
+			}	
+		.btn-color:hover,
+.btn-color:active,
+.btn-color.active,
+.btn-color.disabled,
+.btn-color[disabled] {
+  background-color: #3f51b5;
+  
+}		
+	.option-box .color-option {
+    
+	border:5px solid #3f51b5;
+   
+}		
+
+iframe.contact-map{
+  -webkit-box-shadow: 6px 6px 0px #c85c0e;
+     -moz-box-shadow: 6px 6px 0px #c85c0e;
+          box-shadow: 6px 6px 0px #c85c0e;
+}
